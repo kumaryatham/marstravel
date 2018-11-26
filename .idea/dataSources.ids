@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails marstravel: test" uuid="74c203e7-677e-45a6-9f1e-fb5dd3d1d89b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails marstravel: production" uuid="61aa556b-34c8-467f-9b6c-215e5622a9fb">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails marstravel: development" uuid="55b8ddda-b7d2-487f-867d-c2bb9b39c7c9">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

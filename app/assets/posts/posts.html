@@ -1,0 +1,9 @@
+<!-- Here ng-include -->
+<div ng-include="'posts/new.html'"> <--
+    <!-- Partial will render here -->
+</div>
+...
+<!-- this will render a list of posts -->
+<ul>
+    <li ng-repeat="post in vm.posts | track by post.id">{{post.content}}</li>
+</ul>

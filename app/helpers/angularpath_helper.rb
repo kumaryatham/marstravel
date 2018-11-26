@@ -1,0 +1,2 @@
+module AngularpathHelper
+end

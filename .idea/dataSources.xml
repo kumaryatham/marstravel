@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1751781739">
+    <data-source source="LOCAL" name="Rails marstravel: test" uuid="74c203e7-677e-45a6-9f1e-fb5dd3d1d89b">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:marstravel</jdbc-url>
+      <user-name>marstravel</user-name>
+      <user-password>dfdadfdddfcedfdedfcfdfd9dfde</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails marstravel: production" uuid="61aa556b-34c8-467f-9b6c-215e5622a9fb">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/marstravel</jdbc-url>
+      <user-name>marstravel</user-name>
+      <user-password>dfdadfdddfcedfdedfcfdfd9dfde</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails marstravel: development" uuid="55b8ddda-b7d2-487f-867d-c2bb9b39c7c9">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/marstravel</jdbc-url>
+      <user-name>marstravel</user-name>
+      <user-password>dfdadfdddfcedfdedfcfdfd9dfde</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

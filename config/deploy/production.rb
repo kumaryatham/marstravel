@@ -1,0 +1,1 @@
+server 'localhost', user: 'kumar', roles: %w{web app}

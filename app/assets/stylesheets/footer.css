@@ -1,0 +1,13 @@
+/* Style the header with a grey background and some padding */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: palevioletred;
+    padding: 20px 10px;
+}
+
+/* Style the header links */
